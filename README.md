@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/jungchanSon"
-  width="100%"
-  height="100%"
+  width="60%"
+  height="60%"
 />
 </a>
